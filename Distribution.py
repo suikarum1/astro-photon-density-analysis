@@ -13,7 +13,7 @@ for ra0 in range(360):
         x.append(ra0)
         y.append(dec0)
         z = func(ra0,dec0)
-#接近南北极时取一个点就够了，接近赤道时多取几个
+
 '''
 
 import numpy as np
